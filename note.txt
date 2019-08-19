@@ -1,0 +1,40 @@
+- 4 Component chính trong Android là gì
+- Phân bi?t Implicit và Explicit Intent
+- Phân bi?t Service và IntentService
+- Trình bày LifeCycle c?a Activity
+- Trình bày LifeCycle c?a Fragment
+- S? khác nhau c?a Activity và Fragment
+- Khi nào thì dùng Fragment, cho ví d? trong th?c t?
+- Gi?i thích Back stack fragment manager
+- Gi?i thích dp, dpi, pt, sp trong Android
+- Khi 1 activity dang ch?y, ta nh?n nút Home thì activity dó di vào nh?ng tr?ng thái nào.
+- Khi 1 Activity dang ch?y, ta ch?n recent apps, quét qua d? kill app dó thì activity dó di vào nh?ng tr?ng thái nào
+- Khi 1 Activity dang ch?y mà b? crash, activity dó di vào tr?ng thái nào
+- N?u thêm nhi?u Fragment vào cùng 1 FrameLayout b?ng FragmentManager thì th?c t? hi?n th? fragment nào, các fragment kia roi vào tr?ng thái gì.
+- Khi dang ? trong Activity, xoay màn hình thì Activity di vào nh?ng tr?ng thái nào
+- Khi dang ? trong Activity, m? 1 AlertDialog thì activity di vào nh?ng tr?ng thái nào
+- T?o m?i 1 Thread trong activity, khi m? activity m?i thì Thread dó có còn ch?y ko
+- T?o m?i 1 AsyncTask trong activity, m? activity m?i thì AsyncTask dó còn ch?y ko
+- MediaPlayer dang ch?y trong, t?o m?i activity khác, player dó còn ch?y ko
+- Gi?i thích v? 4 launchmode:standard, singleTop, singleTask, singleInstance
+- Phân bi?t Serializable và Parcelable, cái nào t?t hon
+- ANR là gì, khi nào nó x?y ra
+- So sánh LinearLayout và ConstrainLayout
+- S? khác nhau gi? View.GONE và View.INVISIBLE
+- Li?t kê m?t s? thu vi?n http dã dùng
+- Rest APIs là gì, t?i sao l?i dùng nó
+- T?i sao Android dùng db SQLite
+- Khi nào dùng SQL, khi nào dùng XML
+- Android Gradle là gì
+- Dependency injection là gì
+- Làm th? nào d? upload 1 file ?nh trong máy Android lên server
+- Li?t kê, gi?i thích 4 tính ch?t OOP
+- MVVM, MVP, MVC là gì, khi nào dùng cái nào
+- Singleton dùng d? làm gì
+- Khi nào dùng Interface ho?c Abstract Class
+- T?i sao Class String trong Java l?i immutable
+- Daemon Thread là gì
+- Android Garbage collection ho?t d?ng ntn
+- Khi nào 1 object s?n sàng for Garbage collection h?t
+- StringBuilder vs StringBuffer
+- Java dùng pass-by-value hay pass-by-reference
